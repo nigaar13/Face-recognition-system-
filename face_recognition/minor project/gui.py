@@ -1,5 +1,5 @@
 """
-Anurag : This is the main file which should to run to start the attendance system. 
+Nigar : This is the main file which should to run to start the attendance system. 
 12 may 2025 5:30 pm
 
 """
